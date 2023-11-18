@@ -1,4 +1,4 @@
-# library-system
+# library-system📚
 
 ### 図書館には名前があり、各書籍にはタイトル、著者、および固有のカタログ番号がある。登録された借り手がおり、それぞれ固有の名前がある。借り手は本を借りて返却することができる(1冊)。ただし、各書籍の取引は司書によって記録されなければならない。また、新しい借り手を登録することが期待されており、貸し出し可能な本とすでに貸し出されている本をカタログ番号の昇順で表示することも求められている。
 
@@ -16,14 +16,18 @@
 
 ## 使用するツール
 
-・visual online paradaim
+・visual online paradaim(ダイアグラム)
 
-・bluej
+・bluej(java)
 
-・google drive, calender
+・google drive, calender(ファイル、日程共有)
 
-・github
+・github(ファイル保存)
 
-・slack
+・slack(連絡)
 
 ・etc...
+
+## 開発方式
+
+iteration1~3までのアジャイル方式で少しずつ機能を追加していく
