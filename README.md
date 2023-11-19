@@ -1,5 +1,4 @@
-
-![図書館スト](https://github.com/hirohiro-sys/library-system/assets/126783940/808151a1-a917-46d1-acbb-deb4c8057a80)
+<img src="https://github.com/hirohiro-sys/library-system/assets/126783940/808151a1-a917-46d1-acbb-deb4c8057a80" height=500px width=850px>   
 
 
 # library-system📚
