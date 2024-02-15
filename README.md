@@ -1,4 +1,4 @@
-<img src="https://github.com/hirohiro-sys/library-system/assets/126783940/808151a1-a917-46d1-acbb-deb4c8057a80" height=500px width=850px>   
+<img src="https://github.com/hirohiro-sys/library-system/assets/126783940/808151a1-a917-46d1-acbb-deb4c8057a80" height=500px width=900px>   
 
 
 # library-system📚
@@ -15,7 +15,9 @@
 
 ・class diagram
 
-・javaコード(設計がメインのプロジェクトのため、javaコードはオプションで)
+・javaコード
+
+ 設計がメインのプロジェクトのため、javaコードはオプションで
 
 ## 使用するツール
 
